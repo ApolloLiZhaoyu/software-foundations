@@ -1,3 +1,8 @@
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Coq Related Project:**   
+[A Sudoku game developed by Coq from the mathematical proof perspective for CS386L Final Project](https://github.com/frankYaohua/Sudoku_Coq)  
+Sudoku Engine (Basic Log and Interactive Control) + Game Board + Game Repo
+
+
 This page is used to share my solutions of Software Foundations textbook used for 2016 fall Programming Language class of SNU.
 
 Notify
